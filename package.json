@@ -6,9 +6,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon server.js", // Assuming this starts your development server
-    "start": "node server.js", // Define a script to start your server
-    "build": "echo \"No build step required for server-side application\"" // Placeholder for build script
+    "dev": "nodemon server.js",
+    "start": "node server.js",
   },
   "author": "",
   "license": "ISC",
